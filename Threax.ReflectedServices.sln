@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threax.ReflectedServices", "Threax.ReflectedServices\Threax.ReflectedServices.csproj", "{2732A573-4665-48B8-900D-D3DF7B5F0B4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threax.ReflectedServices.Tests", "Threax.ReflectedServices.Tests\Threax.ReflectedServices.Tests.csproj", "{79D7E93B-EDE9-4D81-A2F8-99578634A05A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2732A573-4665-48B8-900D-D3DF7B5F0B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2732A573-4665-48B8-900D-D3DF7B5F0B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2732A573-4665-48B8-900D-D3DF7B5F0B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79D7E93B-EDE9-4D81-A2F8-99578634A05A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D7E93B-EDE9-4D81-A2F8-99578634A05A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D7E93B-EDE9-4D81-A2F8-99578634A05A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D7E93B-EDE9-4D81-A2F8-99578634A05A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
